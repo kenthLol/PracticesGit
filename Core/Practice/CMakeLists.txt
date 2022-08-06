@@ -1,4 +1,4 @@
-cmake_minimum_required (VERSION 3.20)
+cmake_minimum_required (VERSION 3.16)
 
 project (CppPracticesProject
     LANGUAGES C CXX
@@ -19,7 +19,7 @@ add_executable (${PROJECT_NAME}
 
 target_compile_features (${PROJECT_NAME}
     PUBLIC
-        cxx_std_23
+        cxx_std_20
 )
 
 target_include_directories(${PROJECT_NAME}

@@ -1,0 +1,21 @@
+Line 1: ONE
+Line 2: TWO
+
+Line 4: /mnt/c/Users/Kenneth Lola/Documents/Proyectos/CMakePractices/build/OutPut/Bin/libHtmlBuilderLibrary.a
+
+Line 6: Debug
+Line 7: --C++/Latest
+
+Line 9:  ${CMAKE_CURRENT_SOURCE_DIR}
+Line 10: 
+
+ALIAS_GLOBAL:             
+ALIASED_TARGET:           HtmlBuilderLibrary
+SOURCES:                  Includes/Attribute.hpp;Includes/Document.hpp;Includes/Element.hpp;Includes/Html.hpp;Sources/Document.cpp;Sources/Element.cpp
+SOURCE_DIR:               /mnt/c/Users/Kenneth Lola/Documents/Proyectos/CMakePractices/Libraries/HtmlBuilder
+BINARY_DIR:               /mnt/c/Users/Kenneth Lola/Documents/Proyectos/CMakePractices/build/Libraries/HtmlBuilder
+INCLUDE_DIRECTORIES:      /mnt/c/Users/Kenneth Lola/Documents/Proyectos/CMakePractices/Libraries/HtmlBuilder/..;
+LIBRARY_OUTPUT_DIRECTORY: /mnt/c/Users/Kenneth Lola/Documents/Proyectos/CMakePractices/build/OutPut/Bin
+LINK_INTERFACE_LIBRARIES: 
+NAME:                     HtmlBuilderLibrary
+VERSION:                  

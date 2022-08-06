@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Libraries/HtmlBuilder/Includes/Attribute.hpp
+string
+-
+
+../Libraries/HtmlBuilder/Includes/Element.hpp
+string
+-
+string_view
+-
+vector
+-
+ostream
+-
+sstream
+-
+Attribute.hpp
+../Libraries/HtmlBuilder/Includes/Attribute.hpp
+
+/mnt/c/Users/Kenneth Lola/Documents/Proyectos/CMakePractices/Libraries/HtmlBuilder/Sources/Document.cpp
+
+/mnt/c/Users/Kenneth Lola/Documents/Proyectos/CMakePractices/Libraries/HtmlBuilder/Sources/Element.cpp
+HtmlBuilder/Includes/Element.hpp
+/mnt/c/Users/Kenneth Lola/Documents/Proyectos/CMakePractices/Libraries/HtmlBuilder/Sources/HtmlBuilder/Includes/Element.hpp
+

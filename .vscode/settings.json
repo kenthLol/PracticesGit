@@ -9,10 +9,10 @@
     "workbench.tree.expandMode": "doubleClick",
     "workbench.tree.renderIndentGuides": "always",
     "clang-format.executable": "clang-format",
-    "cmake.generator": "Ninja",
+    "cmake.generator": "Unix Makefiles",
     "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
-    "C_Cpp.default.cStandard": "c17",
-    "C_Cpp.default.cppStandard": "c++20",
+    "C_Cpp.default.cStandard": "gnu17",
+    "C_Cpp.default.cppStandard": "gnu++23",
     "explorer.compactFolders": false,
     "files.associations": {
         "*.yml": "dockercompose",

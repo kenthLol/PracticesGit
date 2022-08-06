@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../OutPut/Bin/libHtmlBuilderLibrary.a  CMakeFiles/HtmlBuilderLibrary.dir/Sources/Document.cpp.o CMakeFiles/HtmlBuilderLibrary.dir/Sources/Element.cpp.o
+/usr/bin/ranlib ../../OutPut/Bin/libHtmlBuilderLibrary.a
